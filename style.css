@@ -126,7 +126,7 @@ form button[type="submit"]:hover, .recipe button:hover, .recipe-closeBtn:hover{
     font-size: 20px;
     border-radius: 12px;
     width: 50%;
-    height: 70%;
+    height: 80%;
     background-color: #694c2f;
     transition: all 0.5s ease-in-out;
     overflow-y: scroll;
