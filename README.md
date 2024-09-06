@@ -21,14 +21,15 @@ Check out the app: [Recipe App](https://ronak-goyal-code.github.io/recipe-app/)
 
 ## Setup
 
-1. Clone the repository:
+### 1. Clone the repository:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/ronak-goyal-code/Recipe-App.git
-Open index.html in your browser.
-License
+  Clone the repository:
+  git clone https://github.com/ronak-goyal-code/Recipe-App.git
+
+### 2. Open `index.html` in your browser.
+
+## License
+
 This project is open-source.
 
 
