@@ -21,15 +21,21 @@ Check out the app: [Recipe App](https://ronak-goyal-code.github.io/recipe-app/)
 
 ## Setup
 
-### 1. Clone the repository:
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/ronak-goyal-code/Recipe-App.git.
+```
 
-  Clone the repository:
-  git clone https://github.com/ronak-goyal-code/Recipe-App.git
+2. Open `index.html` in your browser.
 
-### 2. Open `index.html` in your browser.
+## API Integration
+
+This app uses the TheMealDB API to fetch recipes.
 
 ## License
 
 This project is open-source.
+
+
 
 
