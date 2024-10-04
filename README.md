@@ -17,7 +17,7 @@ This is a frontend web application that allows users to search and view recipes 
 
 ## Live Demo
 
-Check out the app: [Recipe App](https://ronak-goyal-code.github.io/recipe-app/)
+Check out the app: [Recipe App](https://ronak-goyal-code.github.io/Recipe-App/)
 
 ## Setup
 
